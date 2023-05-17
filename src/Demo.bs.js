@@ -4,6 +4,6 @@
 
 console.log("Hello, World!");
 
-console.log("hi");
+console.log("hia");
 
 /*  Not a pure module */

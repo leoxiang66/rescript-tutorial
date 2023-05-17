@@ -19,3 +19,10 @@ npm install
 ```sh
 node src/Demo.bs.js
 ```
+
+## Example Setup
+```
+npm install
+npm run res:build
+node src/Demo.bs.js
+```

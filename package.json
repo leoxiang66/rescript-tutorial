@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "functional-data-structure": "^0.1.4",
+    "functional-data-structure": "^0.1.9",
     "rescript": "*"
   },
   "type": "module"

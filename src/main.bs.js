@@ -23,6 +23,8 @@ var tr = /* Node */{
 
 console.log(Tree.Tree.to_list(tr));
 
+console.log("123");
+
 export {
   myArray ,
   mySet ,

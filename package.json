@@ -13,5 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "rescript": "*"
-  }
+  },
+  "bsc-flags": ["-open Belt"]
 }

@@ -12,6 +12,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "functional-data-structure": "^0.1.4",
     "rescript": "*"
-  }
+  },
+  "type": "module"
 }

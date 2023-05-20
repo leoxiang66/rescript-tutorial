@@ -17,3 +17,20 @@ module MySet = {
     List.filter((i) => i != item, set)
 }
 
+
+
+type rec tree<'a> = 
+| Leaf 
+| Node(tree<'a>, 'a, tree<'a>)
+
+type option<'a> = 
+| None 
+| Some('a)
+
+
+type result<'a, 'b> = 
+| Ok('a) 
+| Error('b)
+
+
+

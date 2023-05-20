@@ -1,6 +1,6 @@
 {
-  "name": "rescript-project-template",
-  "version": "0.0.1",
+  "name": "functional-data-structure",
+  "version": "0.1.0",
   "scripts": {
     "res:build": "rescript",
     "res:clean": "rescript clean",
@@ -14,5 +14,6 @@
   "dependencies": {
     "rescript": "*"
   },
-  "bsc-flags": ["-open Belt"]
+  "bsc-flags": ["-open Belt"],
+  "type": "module"
 }
